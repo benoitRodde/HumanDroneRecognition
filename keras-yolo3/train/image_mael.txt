@@ -1,0 +1,21 @@
+../datasets/image_m/video_0051/frame_000001.png 211,3,241,29,0 220,17,246,73,0 244,25,272,89,0
+../datasets/image_m/video_0051/frame_000002.png 181,101,217,135,0 188,125,223,170,0 217,135,252,187,0
+../datasets/image_m/video_0051/frame_000003.png 167,182,202,211,0 169,208,205,241,0 204,224,239,266,0
+../datasets/image_m/video_0051/frame_000004.png 145,274,180,304,0 151,305,184,335,0 185,323,220,356,0
+../datasets/image_m/video_0065/frame_000050.png 322,176,335,204,0 335,177,351,208,0 287,198,301,232,0
+../datasets/image_m/video_0065/frame_000000.png 355,199,366,220,0 364,200,376,229,0 315,217,331,250,0
+../datasets/image_m/video_0065/frame_000132.png 273,249,290,296,0 331,210,347,248,0 302,202,314,237,0
+../datasets/image_m/video_0065/frame_000209.png 346,298,366,356,0 300,287,318,336,0 
+../datasets/image_m/video_0065/frame_000173.png 270,303,294,358,0 295,236,311,277,0 335,246,355,294,0
+../datasets/image_m/video_0314/frame_000088.png 383,38,421,70,0 426,250,469,283,0 
+../datasets/image_m/video_0314/frame_000199.png 378,8,397,32,0 380,218,396,237,0 
+../datasets/image_m/video_0314/frame_000135.png 390,1,418,26,0 406,233,435,259,0 
+../datasets/image_m/video_0314/frame_000000.png 418,20,488,87,0 464,251,530,298,0 360,226,414,264,0
+../datasets/image_m/video_0314/frame_000040.png 412,1,463,40,0 395,125,443,151,0 467,253,534,298,0
+../datasets/image_m/video_0689/frame_000095.png 358,10,384,54,0 
+../datasets/image_m/video_0689/frame_000219.png 383,194,410,229,0 
+../datasets/image_m/video_0689/frame_000133.png 369,67,395,107,0 
+../datasets/image_m/video_0689/frame_000171.png 381,101,405,131,0
+../datasets/image_m/video_0778/frame_000000.png 346,259,374,283,0 341,233,372,259,0 
+../datasets/image_m/video_0778/frame_000112.png 326,259,342,271,0 330,248,343,260,0 
+../datasets/image_m/video_0778/frame_000032.png 340,267,361,285,0 340,247,362,265,0 

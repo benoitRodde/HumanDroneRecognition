@@ -1,0 +1,218 @@
+../datasets/youtube/perso/DJI_0314.mp4/frame_000000 414,20,489,86,0 359,224,416,264,0 459,248,530,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000001 459,248,530,297,0 422,20,489,86,0 359,224,416,264,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000002 363,222,420,262,0 426,20,490,86,0 459,248,530,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000003 364,220,421,260,0 427,24,484,86,0 459,248,530,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000004 364,216,421,256,0 427,24,482,86,0 459,248,530,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000005 367,213,424,253,0 426,30,484,84,0 459,248,530,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000006 369,208,426,248,0 427,28,479,86,0 459,248,530,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000007 459,248,530,297,0 425,29,485,85,0 366,197,427,244,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000008 426,32,483,83,0 367,194,430,245,0 459,248,530,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000009 459,244,534,297,0 427,30,489,81,0 372,191,432,243,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000010 372,186,431,237,0 423,32,480,84,0 459,244,534,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000011 374,187,431,232,0 424,29,483,79,0 459,248,537,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000012 373,186,432,229,0 426,25,486,84,0 459,248,539,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000013 373,188,430,228,0 431,24,481,86,0 462,246,540,295,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000014 378,185,435,225,0 466,245,537,294,0 430,23,486,85,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000015 429,20,486,84,0 462,246,540,295,0 378,185,435,225,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000016 431,20,485,86,0 378,183,435,223,0 464,246,535,295,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000017 380,180,437,220,0 426,12,487,77,0 466,245,537,294,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000018 382,174,439,214,0 459,248,530,297,0 423,12,486,74,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000019 422,11,484,72,0 466,248,537,297,0 384,174,441,214,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000020 419,11,485,70,0 469,247,540,296,0 384,169,441,209,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000021 469,248,540,297,0 419,11,485,70,0 388,166,445,206,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000022 419,11,485,70,0 469,248,540,297,0 388,161,445,201,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000023 417,6,483,65,0 387,159,444,199,0 469,247,540,296,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000024 387,159,444,201,0 468,248,539,297,0 419,4,485,69,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000025 419,4,485,69,0 469,248,540,297,0 389,155,446,195,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000026 391,155,448,195,0 418,1,484,65,0 469,248,540,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000027 391,148,448,188,0 418,0,484,64,0 469,249,540,298,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000028 419,0,485,64,0 389,148,446,188,0 469,249,539,298,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000029 468,249,539,298,0 391,148,448,188,0 419,0,481,60,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000030 469,249,539,298,0 417,-1,479,59,0 393,145,450,185,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000031 394,141,451,181,0 419,0,479,56,0 469,249,539,298,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000032 420,0,477,54,0 394,136,451,176,0 469,249,539,298,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000033 418,0,478,54,0 393,134,450,174,0 469,251,539,300,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000034 468,250,539,299,0 392,130,449,170,0 412,0,478,47,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000035 469,251,537,300,0 390,126,447,166,0 411,0,477,46,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000036 470,250,538,299,0 394,122,451,162,0 411,0,473,45,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000037 469,251,537,300,0 393,122,450,162,0 411,0,470,44,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000038 410,0,470,42,0 393,117,450,157,0 469,252,536,301,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000039 407,0,465,44,0 467,252,535,301,0 391,116,448,156,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000040 466,252,534,301,0 404,0,465,42,0 390,115,447,155,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000041 464,252,532,301,0 407,0,463,44,0 391,116,448,156,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000042 462,252,532,301,0 391,116,448,156,0 405,0,463,46,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000043 462,251,531,300,0 388,113,445,153,0 404,0,460,44,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000044 389,111,446,151,0 400,0,458,43,0 460,252,529,301,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000045 385,109,442,149,0 459,251,530,300,0 399,0,456,44,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000046 384,105,441,145,0 459,252,525,301,0 402,0,457,39,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000047 457,252,523,301,0 383,104,440,144,0 400,0,453,42,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000048 400,0,444,29,0 457,250,524,299,0 382,96,439,139,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000049 397,0,441,26,0 380,93,437,135,0 455,249,523,298,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000050 397,-1,435,23,0 454,250,520,299,0 381,92,438,134,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000051 454,251,520,300,0 380,93,437,135,0 394,0,434,20,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000052 378,88,435,129,0 395,0,429,24,0 450,249,519,298,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000053 450,250,518,299,0 392,0,429,22,0 379,86,436,126,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000054 376,84,433,124,0 448,251,515,300,0 398,0,430,24,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000055 397,0,425,24,0 378,85,435,125,0 446,252,514,301,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000056 445,252,511,301,0 378,83,435,123,0 396,0,426,24,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000057 444,252,510,301,0 391,0,423,24,0 377,82,434,122,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000058 377,81,434,121,0 441,252,510,299,0 391,0,421,24,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000059 439,251,507,300,0 376,75,433,115,0 391,0,419,24,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000060 376,75,433,115,0 391,0,419,24,0 439,255,503,301,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000061 436,255,501,301,0 373,72,430,112,0 391,0,419,24,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000062 435,253,497,300,0 373,70,430,107,0 391,0,419,21,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000063 391,0,412,18,0 372,70,428,110,0 433,255,497,301,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000064 434,253,497,298,0 372,68,427,106,0 391,0,408,14,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000065 371,66,424,103,0 431,251,495,298,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000066 430,253,493,298,0 369,65,420,103,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000067 369,63,423,101,0 427,250,491,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000068 373,61,423,98,0 434,250,491,298,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000069 432,249,489,298,0 371,60,421,94,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000070 431,251,491,300,0 372,59,424,92,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000071 433,251,491,296,0 372,54,424,89,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000072 430,250,489,298,0 374,54,423,89,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000073 433,250,486,297,0 373,51,426,88,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000074 428,249,487,297,0 373,50,423,87,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000075 376,49,422,86,0 431,249,485,295,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000076 376,49,425,84,0 429,248,483,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000077 429,248,485,296,0 376,48,425,82,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000078 375,46,426,80,0 430,249,482,296,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000079 378,45,428,79,0 429,248,482,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000080 378,45,428,79,0 426,248,479,297,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000081 378,44,428,78,0 425,246,478,295,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000082 376,43,426,72,0 426,247,477,295,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000083 427,248,477,294,0 377,42,427,75,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000084 426,247,475,292,0 377,43,427,72,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000085 376,41,423,72,0 424,247,474,290,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000086 426,248,473,291,0 377,38,427,72,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000087 424,247,471,290,0 377,36,423,69,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000088 424,246,470,288,0 376,38,426,67,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000089 425,247,469,289,0 378,36,424,66,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000090 427,248,469,289,0 378,32,423,65,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000091 425,247,468,290,0 381,33,423,64,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000092 424,247,468,288,0 382,30,423,61,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000093 381,32,422,63,0 421,245,466,287,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000094 381,30,423,63,0 423,246,465,287,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000095 383,26,421,60,0 421,246,465,287,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000096 384,25,421,60,0 421,244,463,285,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000097 384,24,424,61,0 421,244,464,284,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000098 386,26,422,59,0 420,243,463,282,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000099 421,242,463,284,0 385,26,422,60,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000100 419,242,461,284,0 385,24,422,60,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000101 418,241,460,283,0 387,24,424,58,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000102 417,242,459,284,0 388,25,425,56,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000103 417,241,459,283,0 388,24,425,55,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000104 414,239,456,281,0 388,23,425,54,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000105 416,240,457,281,0 390,22,427,55,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000106 391,20,425,53,0 416,242,456,282,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000107 391,20,428,52,0 416,240,455,279,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000108 390,19,427,50,0 417,241,455,280,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000109 391,19,428,49,0 412,240,453,278,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000110 392,19,426,51,0 413,238,453,276,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000111 414,240,452,276,0 390,19,427,49,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000112 390,16,427,46,0 412,237,451,276,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000113 391,15,428,44,0 412,238,452,275,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000114 391,14,426,42,0 413,236,452,275,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000115 390,15,427,45,0 412,236,450,274,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000116 414,239,451,275,0 391,14,428,44,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000117 392,13,429,42,0 412,234,451,273,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000118 413,236,453,274,0 390,13,427,42,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000119 389,10,425,39,0 410,236,450,274,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000120 389,10,421,39,0 409,236,449,274,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000121 408,235,448,273,0 388,10,420,40,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000122 409,234,444,267,0 389,10,419,40,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000123 391,7,418,36,0 409,235,444,269,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000124 409,235,445,271,0 388,7,420,37,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000125 406,233,444,270,0 389,5,417,37,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000126 389,6,417,34,0 409,235,445,270,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000127 406,233,443,271,0 389,5,417,34,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000128 391,5,418,34,0 408,235,442,272,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000129 407,233,443,269,0 391,4,417,33,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000130 406,233,440,268,0 388,1,418,32,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000131 386,2,418,31,0 404,232,439,266,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000132 405,233,438,265,0 388,1,418,31,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000133 387,1,415,27,0 404,231,438,266,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000134 402,232,438,267,0 386,0,415,29,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000135 386,1,417,29,0 406,233,438,266,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000136 385,-1,417,31,0 405,234,437,265,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000137 384,0,416,26,0 401,231,437,264,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000138 384,1,415,27,0 403,232,436,264,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000139 384,1,415,27,0 401,232,434,264,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000140 400,231,433,263,0 384,1,415,25,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000141 383,0,414,23,0 400,229,433,261,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000142 382,1,413,25,0 400,229,433,261,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000143 382,0,411,21,0 399,229,432,261,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000144 381,1,412,21,0 399,229,432,261,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000145 381,1,410,20,0 400,230,431,259,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000146 379,1,410,20,0 399,229,429,259,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000147 380,1,411,18,0 399,229,429,259,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000148 380,0,411,19,0 399,228,429,260,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000149 379,1,410,18,0 399,229,428,258,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000150 379,1,410,17,0 398,228,429,257,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000151 379,1,410,18,0 399,230,428,257,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000152 399,228,428,256,0 379,0,410,18,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000153 378,1,409,18,0 398,228,428,258,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000154 380,1,408,18,0 397,226,423,254,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000155 397,228,425,256,0 381,0,404,18,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000156 380,1,404,18,0 398,227,425,255,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000157 379,1,403,20,0 397,228,425,257,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000158 379,0,406,19,0 397,227,424,255,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000159 382,0,406,19,0 394,227,421,255,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000160 379,0,406,19,0 394,226,421,254,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000161 393,224,420,252,0 379,0,406,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000162 379,0,406,19,0 391,225,418,253,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000163 379,0,406,19,0 392,223,419,251,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000164 379,0,406,19,0 392,224,419,252,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000165 379,0,406,19,0 392,223,419,251,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000166 392,223,416,250,0 379,0,406,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000167 379,0,406,19,0 392,223,415,248,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000168 392,224,416,249,0 379,0,406,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000169 393,223,416,246,0 379,0,406,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000170 393,222,416,247,0 379,0,406,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000171 391,221,416,247,0 379,0,406,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000172 392,221,414,246,0 379,0,406,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000173 392,222,415,246,0 377,0,404,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000174 377,0,404,18,0 391,221,414,244,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000175 379,0,406,19,0 390,219,413,243,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000176 376,0,403,19,0 390,217,412,243,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000177 377,0,404,19,0 389,219,412,244,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000178 388,219,410,243,0 377,0,404,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000179 377,0,404,19,0 388,219,410,243,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000180 378,0,403,19,0 386,218,408,242,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000181 385,219,407,243,0 377,0,402,19,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000182 376,0,404,22,0 385,217,407,241,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000183 376,0,404,21,0 384,217,406,241,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000184 376,0,402,19,0 384,217,406,241,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000185 376,0,402,19,0 384,216,406,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000186 376,0,404,23,0 384,215,406,239,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000187 373,0,404,22,0 384,217,406,241,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000188 376,0,403,23,0 384,216,404,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000189 375,0,400,22,0 384,218,403,241,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000190 376,2,402,24,0 383,217,403,241,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000191 376,1,400,24,0 383,217,403,241,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000192 373,2,398,26,0 381,218,401,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000193 375,2,401,27,0 381,217,401,241,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000194 376,2,401,28,0 380,219,400,241,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000195 374,4,397,33,0 378,218,400,242,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000196 374,4,399,30,0 380,217,398,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000197 374,6,401,29,0 380,217,399,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000198 378,216,398,239,0 374,6,401,29,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000199 372,7,399,30,0 378,217,397,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000200 372,8,399,31,0 378,217,397,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000201 376,217,395,240,0 372,10,399,33,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000202 372,9,398,35,0 377,217,396,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000203 372,8,397,34,0 377,217,396,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000204 373,8,397,33,0 376,217,395,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000205 373,9,397,34,0 374,216,393,239,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000206 370,9,397,35,0 375,217,394,240,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000207 370,9,397,36,0 374,214,393,237,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000208 371,9,398,38,0 374,216,393,239,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000209 370,12,397,37,0 374,215,393,238,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000210 369,10,396,38,0 373,215,392,238,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000211 370,12,397,38,0 373,214,392,237,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000212 369,15,396,38,0 373,214,392,237,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000213 370,15,397,38,0 370,214,389,237,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000214 369,15,396,38,0 370,213,389,236,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000215 369,15,396,38,0 370,213,389,236,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000216 370,17,397,40,0 369,211,388,234,0 
+../datasets/youtube/perso/DJI_0314.mp4/frame_000217 368,19,395,42,0 368,212,387,235,0 

@@ -1,0 +1,4 @@
+#001 => Toute la dataset => poids yolo de base
+#002 => Dataset okatuma => poids yolo_tiny de base
+#003 => Dataset okatuma => poids yolo de base
+#004 => Dataaugmentation
