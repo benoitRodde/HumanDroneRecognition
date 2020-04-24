@@ -95,18 +95,3 @@ If you want to use original pretrained weights for YOLOv3:
 6. The training strategy is for reference only. Adjust it according to your dataset and your goal. And add further strategy if needed.
 
 7. For speeding up the training process with frozen layers train_bottleneck.py can be used. It will compute the bottleneck features of the frozen model first and then only trains the last layers. This makes training on CPU possible in a reasonable time. See [this](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) for more information on bottleneck features.
-
-
-#Tester la reconnaissance du drone
-
-Se rendre au niveau du dossier "keras-yolo3" et lancer une des commandes suivantes :
-
-```
-python yolo_video.py --input drone_test.mp4
-python yolo_video.py --input drone_test_2.mp4
-python yolo_video.py --input video_test.m4v
-python yolo_video.py --input ../datasets/youtube/benoit/Park_Kenya.mp4
-python yolo_video.py --input ../datasets/youtube/benoit/1.mp4
-python yolo_video.py --input ../datasets/youtube/benoit/2.mp4
-
-```
