@@ -39,9 +39,8 @@ jobs:
           ${{ runner.os }}-pip-
 
 
-    - name: Test with pytest
+    - name: Test with my script
       run: |
-            pip install pytest
             pytest tests/test_example.py
 
             
