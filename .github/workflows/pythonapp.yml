@@ -16,6 +16,8 @@ jobs:
 
     steps:
 
+    - name: Set up Python 3.6
+
     # Setup cache with multiple OS
     - uses: actions/cache@v1
     if: startsWith(runner.os, 'Linux')
@@ -24,7 +26,6 @@ jobs:
       key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
       restore-keys: |
         ${{ runner.os }}-pip-
-
     - uses: actions/cache@v1
     if: startsWith(runner.os, 'macOS')
     with:
@@ -32,7 +33,6 @@ jobs:
       key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
       restore-keys: |
         ${{ runner.os }}-pip-
-
     - uses: actions/cache@v1
     if: startsWith(runner.os, 'Windows')
     with:
