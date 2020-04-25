@@ -23,8 +23,8 @@ def _main():
 
 
 
-    # annotation_paths = ['train/train-5.txt', 'train/image_mael.txt', 'train/semantic_dataset.txt', 'train/train_image_b_stage1.txt', 'train/semantic_dataset_black_white.txt']
-    annotation_paths = ['train/train-5.txt']
+    annotation_paths = ['train/train-5.txt', 'train/image_mael.txt', 'train/semantic_dataset.txt', 'train/train_image_b_stage1.txt', 'train/semantic_dataset_black_white.txt']
+
     log_dir = 'logs/000/'
     classes_path = 'model_data/coco_classes.txt'
     anchors_path = 'model_data/tiny_yolo_anchors.txt'
@@ -34,11 +34,14 @@ def _main():
 
     input_shape = (416, 416) # multiple of 32, hw
 
-    is_tiny_version = len(anchors) == 6
+    # is_tiny_version = len(anchors) == 6
+    is_tiny_version = True
+
     # default setting
     if is_tiny_version:
         model = create_tiny_model(input_shape, anchors, num_classes,
             freeze_body=2, weights_path='model_data/tiny_yolo_weights.h5')
+
     else:
         model = create_model(input_shape, anchors, num_classes,
             freeze_body=2, weights_path='model_data/yolo_weights.h5')

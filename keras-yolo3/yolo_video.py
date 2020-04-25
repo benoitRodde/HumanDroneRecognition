@@ -52,7 +52,7 @@ if __name__ == '__main__':
     Command line positional arguments -- for video detection mode
     '''
     parser.add_argument(
-        "--input", nargs='?', type=str, required=False, default='./video_test.m4v',
+        "--input", nargs='?', type=str, required=False, default='./test.mp4',
         help = "Video input path"
     )
 
