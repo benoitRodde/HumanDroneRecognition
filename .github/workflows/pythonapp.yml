@@ -41,6 +41,7 @@ jobs:
 
     - name: Test with my script
       run: |
+        ls
         python tests/test_example.py
 
             
