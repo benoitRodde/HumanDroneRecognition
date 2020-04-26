@@ -38,14 +38,12 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-pip-
 
-
-    - name: Test with my script
-      run: |
-        cd ../HumanDroneRecognition
-        ls -a
-        pwd
-        python ../tests/test_example.py
-
+    - name: run my script!
+        command: ./tests/test_example.py
+        args:
+        chdir: "{{ role_path }}"/files
+        delegate_to: 127.0.0.1
+        run_once: true
 
     # - uses: actions/cache@v1
     #    run: |
