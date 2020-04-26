@@ -40,7 +40,7 @@ def _main():
     # default setting
     if is_tiny_version:
         model = create_tiny_model(input_shape, anchors, num_classes,
-            freeze_body=2, weights_path='model_data/tiny_yolo_weights.h5')
+            freeze_body=2, weights_path='model_data/yolo_weights_obj_tiny.h5')
 
     else:
         model = create_model(input_shape, anchors, num_classes,
