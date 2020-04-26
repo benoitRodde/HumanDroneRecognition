@@ -41,7 +41,7 @@ jobs:
 
     - name: Test with my script
       run: |
-        python ../../tests/test_example.py
+        python test_example.py
 
 
     # - uses: actions/cache@v1
