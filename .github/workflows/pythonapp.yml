@@ -41,7 +41,7 @@ jobs:
 
     - name: Test with my script
       run: |
-        cd ..
+        cd ../HumanDroneRecognition
         ls -a
         pwd
         python ../tests/test_example.py
