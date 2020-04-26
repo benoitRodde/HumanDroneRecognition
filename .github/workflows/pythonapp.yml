@@ -41,8 +41,10 @@ jobs:
 
     - name: Test with my script
       run: |
+        cd ..
         ls -a
-        python ./tests/test_example.py
+        pwd
+        python ../tests/test_example.py
 
 
     # - uses: actions/cache@v1
